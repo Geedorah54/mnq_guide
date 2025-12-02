@@ -24,7 +24,7 @@ pandas==2.3.3
 peewee==3.18.3
 pillow==11.3.0
 platformdirs==4.4.0
-plotly==6.5.0
+plotly==6.5.1
 protobuf==6.33.1
 pyarrow==21.0.0
 pycparser==2.23
